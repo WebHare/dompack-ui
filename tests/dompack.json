@@ -1,0 +1,4 @@
+{ "build": {
+    "entrypoint": "test_autocomplete.es"
+  }
+}
